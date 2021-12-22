@@ -22,7 +22,11 @@
   </details> 
   <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca861&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+ <a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luca861&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarziaCulotta&theme=synthwave&layout=compact" />
+</a>    
 
 
 
